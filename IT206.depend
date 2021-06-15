@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1623694736 source:f:\it206 pro\it206\main.cpp
+	<bits/stdc++.h>
+	"IT206.h"
+
+1623694651 f:\it206 pro\it206\include\it206.h
+	<bits/stdc++.h>
+
+1623694919 source:f:\it206 pro\it206\src\it206_m.cpp
+	"IT206.h"
+	<bits/stdc++.h>
+
