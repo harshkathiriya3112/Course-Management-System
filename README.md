@@ -53,12 +53,18 @@ student will have three options:\
 [i] His/her timetable\
 [ii] Course material, he/she will be asked to enter the course name of which 
 material he/she wants.\
-[iii] His/her enrolled courses’ name and the professors’ name• If the new student will come, then he will be asked to enter his details — his 
+[iii] His/her enrolled courses’ name and the professors’ name
+
+![Screenshot (701)](https://user-images.githubusercontent.com/83661454/122968174-dff0d180-d3a8-11eb-93a2-fc35746d5396.png)
+
+• If the new student will come, then he will be asked to enter his details — his 
 surname, father’s name, etc. After entering the details, he will be asked to 
 generate a password. And, He will be assigned a student ID and He will be 
 given a list of courses from which he can choose courses in which he wants 
 to enroll. Then, the process of a new student will be completed and he can 
 simply log in like a regular student.
+
+![Screenshot (702)](https://user-images.githubusercontent.com/83661454/122968197-e717df80-d3a8-11eb-8b15-df2ac8267c07.png)
 
 • If the professor will come, then the login procedure will be the same. After 
 signing in, he will be shown his lecture timing and the number of students 
@@ -67,6 +73,8 @@ enrolled in his course. Then he will have three options:\
 [ii] Material: by choosing this option, the professor can post study material.\
 [iii] Search: professor can search the student’s name and he will be shown 
 that student’s enrollment list.\
+
+![Screenshot (705)](https://user-images.githubusercontent.com/83661454/122968493-38c06a00-d3a9-11eb-9bc8-0248f857026b.png)
 
 • If Admin will come, the log-in procedure will be the same. After signing in, he 
 will have six options:\
@@ -81,13 +89,15 @@ enrollment list of students based on their request.\
 [v] Change professor’s password\
 [vi] Change his password
 
+![Screenshot (706)](https://user-images.githubusercontent.com/83661454/122968499-3b22c400-d3a9-11eb-8468-f6e4ce4c2865.png)
+
 • We have made separate files to store student’s names, passwords, enrolled 
 subjects, course material, etc. And we have stored all this data encrypted. So, 
-no one can read the file data easily.
-• So by using encryption, we have also taken care of the security of data.
+no one can read the file data easily.\
+• So by using encryption, we have also taken care of the security of data.\
 • We have used file handling in the program. So, once all the data is added. And, 
 afterward, any new student comes, then his details will also be added to the 
-file.Things that we learned during the project:
+file.
 
 # Limitations of our project:
 • The encryption that we have implemented to secure the data is not so strong. 
